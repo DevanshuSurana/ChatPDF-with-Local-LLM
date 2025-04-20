@@ -22,6 +22,11 @@ This is a **Streamlit** application that allows you to upload a PDF document and
 Before running the application, ensure that you have **Ollama** installed locally. You can download and install it from [https://ollama.com](https://ollama.com). 
 
 ### 1. Install Ollama
-Follow the instructions from the Ollama website to install and run the Ollama service locally:
+
+1. Visit [Ollama’s website](https://ollama.com) to download the appropriate version for your operating system.
+2. After downloading, follow the installation instructions to install **Ollama**.
+
+Once installed, you can start the Ollama service by running the following command:
+
 ```bash
 ollama serve
